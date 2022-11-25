@@ -9,7 +9,7 @@ version: 2
 name: Lekshmi narayanan 
 title: Site Reliablity Engineer
 email: karthik.kln@gmail.com
-website: kayelen.co 
+website: kayelen.com
 
 # Dark Mode (true/false/never)
 darkmode: never
@@ -21,7 +21,7 @@ github_username:  lforlinux
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
+instagram_username: karthikkln
 linkedin_username: lekshmin
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -48,72 +48,73 @@ additional_links:
 # about_title: About Me
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Lekshmi narayan and I'm a SRE/DevOps Engineer As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Lekshmi narayan and Experienced SRE/DevOps Engineer with a demonstrated history working with Open source tools in the software industry with 10 years as an individual contributor.
 
   I am most skilled in: <mark>AWS</mark> <mark>DevOps</mark>  <mark>SRE</mark>  <mark>Kubernets</mark>  <mark>Docker</mark> and <mark>Linux</mark>
 
 content:
-- title: Experience # Title for the section
+
+  - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Adstream Inc
         link: https://www.adstream.com/
         # link_text: ADP.COM
-        sub_title: Senior DevOps Engineer. 
-        caption: December 2017 - December 2021
-        quote: >
-          Playing around with the microservice with a HR payroll cloud project called Lifion. 
+        sub_title: Site Reliablity Engineer. 
+        caption: March 2022 - Till date
         description: | # this will include new lines to allow paragraphs
-            • Leveraged Kubernetes via EKS and other AWS SaaS tools to cut release times by 20%.
-            • Moudularized AWS IAM as a module via terraform and leveraged the module for authentication with the KIAM server on EKS Kubernetes.
-            • Assisted with refining the SDLC to fit system needs using Jenkins CI/CD.
-            • Developed an infrastructure audit and automated testing framework for integration with AWS cloud infrastructure leveraging the Chef's Inspec.
-            • Perform as a DevOps enabler, specializing in Agile and IaC, Orchestration, Monitoring, and Alerting.
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
+            - Contributing setting up observability tools and performance monitoring.
+          
       - layout: left
         title: ADP Inc
         link: adp.com
-        # link_text: ADP.COM
         sub_title: Senior DevOps Engineer. 
         caption: December 2017 - December 2021
-        quote: >
-          Playing around with the microservice with a HR payroll cloud project called Lifion. 
         description: | # this will include new lines to allow paragraphs
-            • Leveraged Kubernetes via EKS and other AWS SaaS tools to cut release times by 20%.
-            • Moudularized AWS IAM as a module via terraform and leveraged the module for authentication with the KIAM server on EKS Kubernetes.
-            • Assisted with refining the SDLC to fit system needs using Jenkins CI/CD.
-            • Developed an infrastructure audit and automated testing framework for integration with AWS cloud infrastructure leveraging the Chef's Inspec.
-            • Perform as a DevOps enabler, specializing in Agile and IaC, Orchestration, Monitoring, and Alerting.
-
+            - Leveraged Kubernetes via EKS and other AWS SaaS tools to cut release times by 20%.
+            - Moudularized AWS IAM as a module via terraform and leveraged the module for authentication with the KIAM server on EKS Kubernetes.
+            - Assisted with refining the SDLC to fit system needs using Jenkins CI/CD.
+            - Developed an infrastructure audit and automated testing framework for integration with AWS cloud infrastructure leveraging the Chef's Inspec.
+            - Perform as a DevOps enabler, specializing in Agile and IaC, Orchestration, Monitoring, and Alerting.
+      - layout: left
+        title: NTT Inc
+        link: https://www.ntt.com/
+        sub_title: Systems Analyst 
+        caption: December 2015 - December 2017
+        description: | # this will include new lines to allow paragraphs
+            - Assisted the transition of a monolith Node Application into the MicroServices world.
+            - Implemented the container orchestration using Docker swarm with minimized container maintenance and self-healing capability by 50%.
+            - Migated the public used Docker registry to self-hosted DTR for better security.
+            - Accomplished solution-based approach to software development using unified reuse artifacts by Jfrog Artifactory.
+      - layout: left
+        title: Comodo Inc
+        link: https://www.comodo.com/
+        sub_title: Linux administrator.
+        caption: Nay 2013 - December 2015
+        description: | # this will include new lines to allow paragraphs
+            - Set up and managed 40 Linux servers with 99.95% up-time.
+            - Centralized the configuration management leveraging Ansible for 100+ servers.
+            - Automated web server content deployments via Ansible playbooks.
+            - Deployed 2+ software iterations per day for 2 years that Increased customer satisfaction by 25%.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Anna university
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        caption: 2008
+        sub_title: Bachelor of Engineering
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          During my time at college i learnt Electronics and communication engineering. 
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - [Photography](https://www.flickr.com/photos/65054046@N03/)
+      - [Book Reading](https://www.goodreads.com/user/show/27766970-lekshminarayanan-karthik)
+      - [Tech Blogging](https://kayelen.medium.com/) 
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
